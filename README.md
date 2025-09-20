@@ -110,5 +110,10 @@ All charts are saved as high-resolution PNG files suitable for PowerPoint presen
     - Check if the static/css/style.css file exists
     - Run the setup script again: python setup.py
 3. Port Already in Use:
-    - Change the port in app.py or stop other applications using port 5000
+    - Change the port in app.py or stop other applications using port 4000
 
+## Aws EC2 Instance
+The app is hosted here. Access link below
+```
+http://34.201.92.55:4000/
+```
