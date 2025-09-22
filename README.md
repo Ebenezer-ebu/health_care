@@ -52,6 +52,11 @@ Open your web browser and navigate to:
 http://localhost:4000
 ```
 
+**Step 7: Export data from MongoDB to CSV**
+```
+python user_class.py
+```
+
 ## 📁 Project Structure
 ```
 healthcare_survey/
